@@ -1,0 +1,64 @@
+# 4FX_HANDLINGS
+
+# (nr) MODEL <Model IRL | Motor, HP>
+# 'kategoria' - <Rzeczywiste statystyki> | In-game statystyki 
+
+(x) xxx <xxx | xxx, xx HP>
+'weight' -    <0000> |
+'0-100km/h' - <>  
+'0-200km/h' - <>
+'v-max' -     <>
+
+#### COMPACTS (15) ####
+
+(1) ASBO <OPEL CORSA C | 1.4 WINPORT ECOTEC, 90 HP>
+'weight' -    <1035> | 1035
+'0-100km/h' - <11.5> | 11.4
+'0-200km/h' - <?>    | ?
+'v-max' -     <179>  | 175
+
+(2) BLISTA <HONDA CIVIC VIII | 1.4 i-VTEC, 100 HP>
+'weight' -    <1171> | 1171
+'0-100km/h' - <13>   | 13.52
+'0-200km/h' - <?>    | ?
+'v-max' -     <177>  | 174
+
+(3) BRIOSO <ABARTH 500 | 1.4 T-JET, 135 HP>
+'weight' -    <1100> | 1110
+'0-100km/h' - <7.9>  | 7.88 
+'0-200km/h' - <?>    | ?
+'v-max' -     <205>  | 196
+
+(4) CLUB <VW GOLF II | 1.8 GTI, 112 HP>
+'weight' -    <920> | 920 
+'0-100km/h' - <9.7> | 9.91
+'0-200km/h' - <?>   | ? 
+'v-max' -     <191> | 186
+
+(5/6) DILETTANTE <TOYOTA PRIUS II | 1.5 VVT-I, 78 HP>
+'weight' -    <1300> | 1300 
+'0-100km/h' - <10.9> | 10.78
+'0-200km/h' - <?>    | ?
+'v-max' -     <170>  | 170
+
+(7) ISSI2 <MINI HATCH I | 1.6 , 116 HP>
+'weight' -    <1125> | 1125 
+'0-100km/h' - <9.2>  | 9.19
+'0-200km/h' - <?>    | ?
+'v-max' -     <200>  | 196
+
+(8) ISSI3 <MINI MK II | 1.0 , 56 HP>
+'weight' -    <584> | 584  
+'0-100km/h' - <?>   | 19.02
+'0-200km/h' - <?>   | ?
+'v-max' -     <?>   | ?
+
+#
+# (3x issi arena update ~ TODO)
+#
+
+(12) KANJO <HONDA CIVIC VI | 1.8 16v , 170 HP>
+'weight' -    <1220> | 1220   
+'0-100km/h' - <8.3>  | 7.24
+'0-200km/h' - <?>    | ?
+'v-max' -     <223>  | 225
